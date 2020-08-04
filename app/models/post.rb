@@ -16,3 +16,7 @@ class Post < ActiveRecord::Base
      end
    end
  end
+
+
+#bi directional has many through
+#join model 
